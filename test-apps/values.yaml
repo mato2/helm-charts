@@ -49,7 +49,7 @@ ingress:
   #    hosts:
   #      - chart-example.local
 pageContent: | 
-  <h1> Welcome to Anvil team!</h1>
+  <h1> Welcome to the team!</h1>
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
   # choice for the user. This also increases chances charts run on environments with little
